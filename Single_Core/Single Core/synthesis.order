@@ -1,0 +1,36 @@
+i<>c:\users\hamed\desktop\computer_system_architecture_project - single core\single core\src\register 4 bit.vhd
+i<>c:\users\hamed\desktop\computer_system_architecture_project - single core\single core\src\ir parser.vhd
+i<>c:\users\hamed\desktop\computer_system_architecture_project - single core\single core\src\register 16 bit.vhd
+i<>c:\users\hamed\desktop\computer_system_architecture_project - single core\single core\src\flow control.vhd
+i<>c:\users\hamed\desktop\computer_system_architecture_project - single core\single core\src\address adaptor.vhd
+i<>c:\users\hamed\desktop\computer_system_architecture_project - single core\single core\src\decoder 4x16.vhd
+i<>c:\users\hamed\desktop\computer_system_architecture_project - single core\single core\src\mux 2x1.vhd
+i<>c:\users\hamed\desktop\computer_system_architecture_project - single core\single core\src\address adder.vhd
+i<>c:\users\hamed\desktop\computer_system_architecture_project - single core\single core\src\mux 4x1.vhd
+i<>c:\users\hamed\desktop\computer_system_architecture_project - single core\single core\src\memory 16x16.vhd
+i<>c:\users\hamed\desktop\computer_system_architecture_project - single core\single core\src\mux 8x1.vhd
+i<>c:\users\hamed\desktop\computer_system_architecture_project - single core\single core\src\sequence counter.vhd
+i<>c:\users\hamed\desktop\computer_system_architecture_project - single core\single core\src\destination sync.vhd
+i<>c:\users\hamed\desktop\computer_system_architecture_project - single core\single core\src\std ulogic vector to integer.vhd
+i<>c:\users\hamed\desktop\computer_system_architecture_project - single core\single core\src\sc cleaner.vhd
+i<>c:\users\hamed\desktop\computer_system_architecture_project - single core\single core\src\cpu diagram.bde
+i<>c:\users\hamed\desktop\computer_system_architecture_project - single core\single core\src\alu.vhd
+i<>c:\users\hamed\desktop\computer_system_architecture_project - single core\single core\src\decoder 3x8.vhd
+i<>.\src\sc cleaner.vhd
+i<>.\src\register 4 bit.vhd
+i<>.\src\std ulogic vector to integer.vhd
+i<>.\src\sequence counter.vhd
+i<>.\src\register 16 bit.vhd
+i<>.\src\mux 2x1.vhd
+i<>.\src\cpu diagram.bde
+i<>.\src\alu.vhd
+i<>.\src\address adder.vhd
+i<>.\src\destination sync.vhd
+i<>.\src\memory 16x16.vhd
+i<>.\src\ir parser.vhd
+i<>.\src\flow control.vhd
+i<>.\src\decoder 4x16.vhd
+i<>.\src\mux 8x1.vhd
+i<>.\src\mux 4x1.vhd
+i<>.\src\address adaptor.vhd
+i<>.\src\decoder 3x8.vhd

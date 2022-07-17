@@ -1,0 +1,79 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=Single_Core_Register
+
+[Library]
+Single_Core_Register=.\Single_Core_Register.lib
+
+[$LibMap$]
+Single_Core_Register=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+HESPrepare=0
+
+[IMPLEMENTATION]
+UCF=
+
+[Files]
+/sc cleaner.vhd=-1
+/address adder.vhd=-1
+/address adaptor.vhd=-1
+/decoder 3x8.vhd=-1
+/destination sync.vhd=-1
+/decoder 4x16.vhd=-1
+/alu.vhd=-1
+/ir parser.vhd=-1
+/mux 4x1.vhd=-1
+/mux 2x1.vhd=-1
+/memory 16x16.vhd=-1
+/flow control.vhd=-1
+/register 16 bit.vhd=-1
+/register 4 bit.vhd=-1
+/std ulogic vector to integer.vhd=-1
+/sequence counter.vhd=-1
+/mux 8x1.vhd=-1
+/cpu diagram.bde=-1
+/test waveform.awf=-1
+
+[Files.Data]
+.\src\sc cleaner.vhd=VHDL Source Code
+.\src\address adder.vhd=VHDL Source Code
+.\src\address adaptor.vhd=VHDL Source Code
+.\src\decoder 3x8.vhd=VHDL Source Code
+.\src\destination sync.vhd=VHDL Source Code
+.\src\decoder 4x16.vhd=VHDL Source Code
+.\src\alu.vhd=VHDL Source Code
+.\src\ir parser.vhd=VHDL Source Code
+.\src\mux 4x1.vhd=VHDL Source Code
+.\src\mux 2x1.vhd=VHDL Source Code
+.\src\memory 16x16.vhd=VHDL Source Code
+.\src\flow control.vhd=VHDL Source Code
+.\src\register 16 bit.vhd=VHDL Source Code
+.\src\register 4 bit.vhd=VHDL Source Code
+.\src\std ulogic vector to integer.vhd=VHDL Source Code
+.\src\sequence counter.vhd=VHDL Source Code
+.\src\mux 8x1.vhd=VHDL Source Code
+.\src\cpu diagram.bde=Block Diagram
+.\src\test waveform.awf=Waveform File
+
+[file_out:/cpu diagram.bde]
+/\compile\cpu diagram.vhd=-1
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=\CPU Diagram\|\CPU Diagram\|0 
+ShowHide=ShowTopLevel
+Selected=

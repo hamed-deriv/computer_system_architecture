@@ -1,0 +1,18 @@
+.\src\address adaptor.vhd
+.\src\decoder 3x8.vhd
+.\src\alu.vhd
+.\src\address adder.vhd
+.\src\destination sync.vhd
+.\src\memory 16x16.vhd
+.\src\ir parser.vhd
+.\src\flow control.vhd
+.\src\decoder 4x16.vhd
+.\src\mux 8x1.vhd
+.\src\mux 4x1.vhd
+.\src\sc cleaner.vhd
+.\src\register 4 bit.vhd
+.\src\std ulogic vector to integer.vhd
+.\src\sequence counter.vhd
+.\src\register 16 bit.vhd
+.\src\mux 2x1.vhd
+.\src\cpu diagram.bde

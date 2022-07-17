@@ -1,0 +1,18 @@
+E Convertor VHDL
+L IEEE;STD;
+U ieee.std_logic_1164;STD.STANDARD;
+P Input _in std_ulogic_vector[3:0]
+P Output _out INTEGER<0;15>
+X Convertor
+put _in std_ulogic_vector[3:0]
+P Output _out std_ulogic_vector[3:0]
+X Register_4_Bit
+_in std_ulogic_vector[3:0]
+P Output _out std_ulogic_vector[3:0]
+X MUX_4x1
+P Input6 _in std_ulogic_vector[15:0]
+P Input7 _in std_ulogic_vector[15:0]
+P Output _out std_ulogic_vector[15:0]
+X MUX_8x1
+7:0]
+X Flow_Control

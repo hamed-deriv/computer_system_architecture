@@ -1,0 +1,22 @@
+[Files List]
+C:\Program Files (x86)\Active-HDL 6.3\VLIB\STD/src/standard.vhd=S
+C:\Program Files (x86)\Active-HDL 6.3\VLIB\IEEE/src/stdlogic.vhd=S
+C:\Program Files (x86)\Active-HDL 6.3\VLIB\IEEE/src/numstd.vhd=S
+c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register/src/mux 8x1.vhd=S
+c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register/src/decoder 3x8.vhd=S
+c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register/src/sc cleaner.vhd=S
+c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register/src/sequence counter.vhd=S
+c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register/src/address adder.vhd=S
+c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register/src/address adaptor.vhd=S
+c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register/src/register 16 bit.vhd=S
+c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register/src/register 4 bit.vhd=S
+c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register/src/decoder 4x16.vhd=S
+c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register/src/memory 16x16.vhd=S
+c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register/src/mux 2x1.vhd=S
+c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register/src/ir parser.vhd=S
+c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register/src/flow control.vhd=S
+c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register/src/destination sync.vhd=S
+c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register/src/mux 4x1.vhd=S
+c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register/src/std ulogic vector to integer.vhd=S
+c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register/src/alu.vhd=S
+c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register/compile/cpu diagram.vhd=S

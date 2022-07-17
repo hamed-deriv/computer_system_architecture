@@ -1,0 +1,240 @@
+timestamp=1312614435479
+
+[\CPU Diagram\]
+A/\CPU Diagram\=24|.\src\cpu diagram.bde|10000|1*528534
+B/\CPU Diagram\=3*178033
+H/\CPU Diagram\=0*734588
+R=./compile/cpu diagram.vhd|25
+V=0*73676
+
+[address_adapter]
+A/designe_address_adapter=A/Designe_Address_Adapter 21|./src/address adaptor.vhd|8|1*483770
+B/designe_address_adapter=3*143067
+H/designe_address_adapter=0*686989
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/address adaptor.vhd|4
+S/address_adapter=S/Address_Adapter 40|0|2*5398
+V=0*162551
+
+[address_adder]
+A/designe_address_adder=A/Designe_Address_Adder 21|./src/address adder.vhd|9|1*489028
+B/designe_address_adder=3*151691
+H/designe_address_adder=0*693453
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/address adder.vhd|5
+S/address_adder=S/Address_Adder 40|0|2*0
+V=0*158251
+
+[alu]
+A/design_alu=A/Design_ALU 21|./src/alu.vhd|10|1*485502
+B/design_alu=3*143437
+H/design_alu=0*688771
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/alu.vhd|5
+S/alu=S/ALU 40|0|2*1551
+V=0*147542
+
+[convertor]
+A/designe_convertor=A/Designe_Convertor 21|./src/std ulogic vector to integer.vhd|9|1*520479
+B/designe_convertor=3*173699
+H/designe_convertor=0*727069
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/std ulogic vector to integer.vhd|5
+S/convertor=S/Convertor 40|0|2*6571
+V=0*82021
+
+[decoder_3x8]
+A/design_decoder_3x8=A/Design_Decoder_3x8 21|./src/decoder 3x8.vhd|8|1*507050
+B/design_decoder_3x8=3*164082
+H/design_decoder_3x8=0*711637
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/decoder 3x8.vhd|4
+S/decoder_3x8=S/Decoder_3x8 40|0|2*26784
+V=0*93625
+
+[decoder_4x16]
+A/design_decoder_4x16=A/Design_Decoder_4x16 21|./src/decoder 4x16.vhd|8|1*491262
+B/design_decoder_4x16=3*152455
+H/design_decoder_4x16=0*695470
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/decoder 4x16.vhd|4
+S/decoder_4x16=S/Decoder_4x16 40|0|2*7755
+V=0*176417
+
+[destination_sync]
+A/designe_destination_sync=A/Designe_Destination_Sync 21|./src/destination sync.vhd|9|1*496741
+B/designe_destination_sync=3*160414
+H/designe_destination_sync=0*702326
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/destination sync.vhd|4
+S/destination_sync=40|0|2*8923
+V=0*118215
+
+[flow_control]
+A/designe_flow_control=A/Designe_Flow_Control 21|./src/flow control.vhd|9|1*493748
+B/designe_flow_control=3*156278
+H/designe_flow_control=0*698016
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/flow control.vhd|4
+S/flow_control=S/Flow_Control 40|0|2*20909
+V=0*170192
+
+[ir_parser]
+A/ir_parser=A/IR_Parser 21|./src/ir parser.vhd|9|1*503384
+B/ir_parser=3*162653
+H/ir_parser=0*708368
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/ir parser.vhd|4
+S/ir_parser=S/IR_Parser 40|0|2*15486
+V=0*88045
+
+[memory_16x16]
+A/designe_memory_16x16=A/Designe_Memory_16x16 21|./src/memory 16x16.vhd|9|1*498725
+B/designe_memory_16x16=3*161157
+H/designe_memory_16x16=0*704839
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/memory 16x16.vhd|4
+S/memory_16x16=S/Memory_16x16 40|0|2*29836
+V=0*104764
+
+[mux_2x1]
+A/designe_mux_2x1=A/Designe_MUX_2x1 21|./src/mux 2x1.vhd|8|1*526849
+B/designe_mux_2x1=3*177263
+H/designe_mux_2x1=0*732650
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/mux 2x1.vhd|4
+S/mux_2x1=S/MUX_2x1 40|0|2*27950
+V=0*98043
+
+[mux_4x1]
+A/designe_mux_4x1=A/Designe_MUX_4x1 21|./src/mux 4x1.vhd|8|1*508917
+B/designe_mux_4x1=3*166296
+H/designe_mux_4x1=0*713700
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/mux 4x1.vhd|4
+S/mux_4x1=S/MUX_4x1 40|0|2*10485
+V=0*111820
+
+[mux_8x1]
+A/designe_mux_8x1=A/Designe_MUX_8x1 21|./src/mux 8x1.vhd|8|1*516135
+B/designe_mux_8x1=3*170235
+H/designe_mux_8x1=0*721503
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/mux 8x1.vhd|4
+S/mux_8x1=S/MUX_8x1 40|0|2*38832
+V=0*128843
+
+[pc_4_bit]
+A/design_pc_4_bit=A/Design_PC_4_Bit 21|./src/pc 4 bit.vhd|9|1*513719
+B/design_pc_4_bit=3*168564
+H/design_pc_4_bit=0*719185
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/pc 4 bit.vhd|5
+S/pc_4_bit=S/PC_4_Bit 40|0|2*36192
+V=0*139605
+
+[register_16_bit]
+A/design_register_16_bit=A/Design_Register_16_Bit 21|./src/register 16 bit.vhd|9|1*511457
+B/design_register_16_bit=3*167679
+H/design_register_16_bit=0*717082
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/register 16 bit.vhd|5
+S/register_16_bit=S/Register_16_Bit 40|0|2*34274
+V=0*153542
+
+[register_4_bit]
+A/design_register_4_bit=A/Design_Register_4_Bit 21|./src/register 4 bit.vhd|9|1*524397
+B/design_register_4_bit=3*175586
+H/design_register_4_bit=0*730253
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/register 4 bit.vhd|5
+S/register_4_bit=S/Register_4_Bit 40|0|2*18263
+V=0*77827
+
+[sc_cleaner]
+A/design_sc_cleaner=A/Design_SC_Cleaner 21|./src/sc cleaner.vhd|8|1*518785
+B/design_sc_cleaner=3*172626
+H/design_sc_cleaner=0*724892
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/sc cleaner.vhd|4
+S/sc_cleaner=S/SC_Cleaner 40|0|2*13571
+V=0*134548
+
+[sequence_counter]
+A/design_sequence_counter=A/Design_Sequence_Counter 21|./src/sequence counter.vhd|9|1*522470
+B/design_sequence_counter=3*174339
+H/design_sequence_counter=0*728607
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/sequence counter.vhd|5
+S/sequence_counter=S/Sequence_Counter 40|0|2*43076
+V=0*122753
+
+[~A]
+./compile/cpu diagram.vhd~\CPU Diagram\=0*0*228
+./compile/cpu diagram.vhd~\CPU Diagram\\CPU Diagram\=0*790291*807478
+./src/address adaptor.vhd~Designe_Address_AdapterAddress_Adapter=0*688299*688667
+./src/address adder.vhd~Designe_Address_AdderAddress_Adder=0*694852*695372
+./src/alu.vhd~Design_ALUALU=0*691569*693386
+./src/decoder 3x8.vhd~Design_Decoder_3x8Decoder_3x8=0*712929*713609
+./src/decoder 4x16.vhd~Design_Decoder_4x16Decoder_4x16=0*696769*697922
+./src/destination sync.vhd~Designe_Destination_SyncDestination_Sync=0*704219*704732
+./src/flow control.vhd~Designe_Flow_ControlFlow_Control=0*700789*702231
+./src/ir parser.vhd~IR_ParserIR_Parser=0*710983*711559
+./src/memory 16x16.vhd~Designe_Memory_16x16Memory_16x16=0*707034*708273
+./src/mux 2x1.vhd~Designe_MUX_2x1MUX_2x1=0*734095*734508
+./src/mux 4x1.vhd~Designe_MUX_4x1MUX_4x1=0*716386*717002
+./src/mux 8x1.vhd~Designe_MUX_8x1MUX_8x1=0*723985*724812
+./src/pc 4 bit.vhd~Design_PC_4_BitPC_4_Bit=0*720763*721421
+./src/register 16 bit.vhd~Design_Register_16_BitRegister_16_Bit=0*718542*719082
+./src/register 4 bit.vhd~Design_Register_4_BitRegister_4_Bit=0*731849*732550
+./src/sc cleaner.vhd~Design_SC_CleanerSC_Cleaner=0*726328*726981
+./src/sequence counter.vhd~Design_Sequence_CounterSequence_Counter=0*729567*730147
+./src/std ulogic vector to integer.vhd~Designe_ConvertorConvertor=0*728084*728502
+ModifyID=647
+Version=73
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/address adaptor.vhd~Address_Adapter=0*159475*159827
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/address adaptor.vhd~Designe_Address_AdapterAddress_Adapter=0*161300*161750
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/address adder.vhd~Address_Adder=0*154826*155215
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/address adder.vhd~Designe_Address_AdderAddress_Adder=0*156773*157375
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/alu.vhd~ALU=0*140997*141457
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/alu.vhd~Design_ALUALU=0*144394*146293
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/decoder 3x8.vhd~Decoder_3x8=0*90317*90653
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/decoder 3x8.vhd~Design_Decoder_3x8Decoder_3x8=0*92100*92862
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/decoder 4x16.vhd~Decoder_4x16=0*172612*172952
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/decoder 4x16.vhd~Design_Decoder_4x16Decoder_4x16=0*174408*175643
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/destination sync.vhd~Designe_Destination_SyncDestination_Sync=0*116633*117228
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/destination sync.vhd~Destination_Sync=0*114161*114575
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/flow control.vhd~Designe_Flow_ControlFlow_Control=0*167145*168733
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/flow control.vhd~Flow_Control=0*163707*164215
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/ir parser.vhd~IR_Parser=0*82946*83401
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/ir parser.vhd~IR_ParserIR_Parser=0*86167*86825
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/memory 16x16.vhd~Designe_Memory_16x16Memory_16x16=0*102148*103469
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/memory 16x16.vhd~Memory_16x16=0*99318*99796
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/mux 2x1.vhd~Designe_MUX_2x1MUX_2x1=0*96714*97209
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/mux 2x1.vhd~MUX_2x1=0*94771*95122
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/mux 4x1.vhd~Designe_MUX_4x1MUX_4x1=0*109908*110606
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/mux 4x1.vhd~MUX_4x1=0*106644*107075
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/mux 8x1.vhd~Designe_MUX_8x1MUX_8x1=0*126607*127516
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/mux 8x1.vhd~MUX_8x1=0*123547*123978
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/pc 4 bit.vhd~Design_PC_4_BitPC_4_Bit=0*137941*138681
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/pc 4 bit.vhd~PC_4_Bit=0*135820*136214
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/register 16 bit.vhd~Design_Register_16_BitRegister_16_Bit=0*152018*152640
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/register 16 bit.vhd~Register_16_Bit=0*149987*150395
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/register 4 bit.vhd~Design_Register_4_BitRegister_4_Bit=0*76072*76855
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/register 4 bit.vhd~Register_4_Bit=0*73897*74315
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/sc cleaner.vhd~Design_SC_CleanerSC_Cleaner=0*132960*133714
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/sc cleaner.vhd~SC_Cleaner=0*130998*131371
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/sequence counter.vhd~Design_Sequence_CounterSequence_Counter=0*121352*122000
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/sequence counter.vhd~Sequence_Counter=0*119858*120227
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/std ulogic vector to integer.vhd~Convertor=0*79231*79595
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Dual Core/Single Core/src/std ulogic vector to integer.vhd~Designe_ConvertorConvertor=0*80780*81280
+
+[~MFT]
+0=589|0Dual_Core.mgf|807478|614636
+1=171|1Dual_Core.mgf|528534|222845
+2=17|2Dual_Core.mgf|43076|0
+3=176|3Dual_Core.mgf|178033|143067
+
+[~U]
+\CPU Diagram\=11|0*73289|0*73447
+address_adapter=Address_Adapter 11|0*161936|0*162129|0x3
+address_adder=Address_Adder 11|0*157555|0*157782|0x3
+alu=ALU 11|0*146442|0*146779|0x3
+convertor=Convertor 11|0*81467|0*81647|0x3
+decoder_3x8=Decoder_3x8 11|0*93035|0*93213|0x3
+decoder_4x16=Decoder_4x16 11|0*175819|0*176001|0x3
+destination_sync=Destination_Sync 11|0*117417|0*117659|0x3
+flow_control=Flow_Control 11|0*168910|0*169394|0x3
+ir_parser=IR_Parser 11|0*86985|0*87323|0x3
+memory_16x16=Memory_16x16 11|0*103646|0*104088|0x3
+mux_2x1=MUX_2x1 11|0*97371|0*97593|0x3
+mux_4x1=MUX_4x1 11|0*110768|0*111105|0x3
+mux_8x1=MUX_8x1 11|0*127678|0*128137|0x3
+pc_4_bit=PC_4_Bit 11|0*138845|0*139097|0x3
+register_16_bit=Register_16_Bit 11|0*152825|0*153058|0x3
+register_4_bit=Register_4_Bit 11|0*77037|0*77307|0x3
+sc_cleaner=SC_Cleaner 11|0*133884|0*134099|0x3
+sequence_counter=Sequence_Counter 11|0*122188|0*122388|0x3
+

@@ -1,0 +1,33 @@
+elbread.dll ver. 1.0.5.365 Mon Aug 08 16:12:33 2011
+
+
+----------------------------------------------------------
+Entity            | Architecture             | Library  
+----------------------------------------------------------
+\CPU Diagram\     | \CPU Diagram\            | Single_Core
+register_16_bit   | design_register_16_bit   | single_core
+alu               | design_alu               | single_core
+register_4_bit    | design_register_4_bit    | single_core
+convertor         | designe_convertor        | single_core
+mux_4x1           | designe_mux_4x1          | single_core
+decoder_3x8       | design_decoder_3x8       | single_core
+destination_sync  | designe_destination_sync | single_core
+flow_control      | designe_flow_control     | single_core
+ir_parser         | ir_parser                | single_core
+mux_2x1           | designe_mux_2x1          | single_core
+address_adapter   | designe_address_adapter  | single_core
+memory_16x16      | designe_memory_16x16     | single_core
+decoder_4x16      | design_decoder_4x16      | single_core
+address_adder     | designe_address_adder    | single_core
+sequence_counter  | design_sequence_counter  | single_core
+sc_cleaner        | design_sc_cleaner        | single_core
+mux_8x1           | designe_mux_8x1          | single_core
+----------------------------------------------------------
+
+-------------------------
+Package         | Library
+-------------------------
+standard        | std
+std_logic_1164  | ieee
+numeric_std     | ieee
+-------------------------

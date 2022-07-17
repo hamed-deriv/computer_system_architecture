@@ -1,0 +1,12 @@
+[Version]
+Version=6.3
+[Designs]
+single core=.\Single Core\Single Core.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+single core=1

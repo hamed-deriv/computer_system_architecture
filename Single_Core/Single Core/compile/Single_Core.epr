@@ -1,0 +1,19 @@
+"d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Single_Core\Single Core\src\address adaptor.vhd" Single_Core 1 0 2019914866
+"d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Single_Core\Single Core\src\decoder 3x8.vhd" Single_Core 1 0 2019914866
+"d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Single_Core\Single Core\src\alu.vhd" Single_Core 1 0 1702130281
+"d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Single_Core\Single Core\src\address adder.vhd" Single_Core 1 0 1702130281
+"d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Single_Core\Single Core\src\destination sync.vhd" Single_Core 1 0 808465721
+"d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Single_Core\Single Core\src\memory 16x16.vhd" Single_Core 1 0 808465721
+"d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Single_Core\Single Core\src\ir parser.vhd" Single_Core 1 0 1798321268
+"d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Single_Core\Single Core\src\flow control.vhd" Single_Core 1 0 1798321268
+"d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Single_Core\Single Core\src\decoder 4x16.vhd" Single_Core 1 0 1952543348
+"d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Single_Core\Single Core\src\mux 8x1.vhd" Single_Core 1 0 1952543348
+"d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Single_Core\Single Core\src\mux 4x1.vhd" Single_Core 1 0 1814981428
+"d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Single_Core\Single Core\src\sc cleaner.vhd" Single_Core 1 0 1814981428
+"d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Single_Core\Single Core\src\register 4 bit.vhd" Single_Core 1 0 1834969462
+"d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Single_Core\Single Core\src\std ulogic vector to integer.vhd" Single_Core 1 0 1834969462
+"d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Single_Core\Single Core\src\sequence counter.vhd" Single_Core 1 0 1701080673
+"d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Single_Core\Single Core\src\register 16 bit.vhd" Single_Core 1 0 1701080673
+"d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Single_Core\Single Core\src\mux 2x1.vhd" Single_Core 1 0 1869374329
+"d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Single_Core\Single Core\compile\cpu diagram.vhd" Single_Core 1 0 1869374329
+. . 0 0 0

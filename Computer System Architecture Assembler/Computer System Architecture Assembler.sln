@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Computer System Architecture Assembler", "Computer System Architecture Assembler\Computer System Architecture Assembler.csproj", "{3BE8895A-04D5-4B03-B8AC-2B5E29BD8CB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BE8895A-04D5-4B03-B8AC-2B5E29BD8CB1}.Debug|x86.ActiveCfg = Debug|x86
+		{3BE8895A-04D5-4B03-B8AC-2B5E29BD8CB1}.Debug|x86.Build.0 = Debug|x86
+		{3BE8895A-04D5-4B03-B8AC-2B5E29BD8CB1}.Release|x86.ActiveCfg = Release|x86
+		{3BE8895A-04D5-4B03-B8AC-2B5E29BD8CB1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

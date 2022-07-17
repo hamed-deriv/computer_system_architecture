@@ -1,0 +1,228 @@
+timestamp=1312723001139
+
+[\CPU Diagram\]
+A/\CPU Diagram\=24|.\src\cpu diagram.bde|10000|1*2024341
+B/\CPU Diagram\=3*815247
+H/\CPU Diagram\=0*2747148
+R=./compile/cpu diagram.vhd|25
+V=0*140756
+
+[address_adapter]
+A/designe_address_adapter=A/Designe_Address_Adapter 21|./src/address adaptor.vhd|8|1*1982432
+B/designe_address_adapter=3*782553
+H/designe_address_adapter=0*2702525
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/address adaptor.vhd|4
+S/address_adapter=S/Address_Adapter 40|0|2*47106
+V=0*29573
+
+[address_adder]
+A/designe_address_adder=A/Designe_Address_Adder 21|./src/address adder.vhd|9|1*1989563
+B/designe_address_adder=3*793391
+H/designe_address_adder=0*2711052
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/address adder.vhd|5
+S/address_adder=S/Address_Adder 40|0|2*39790
+V=0*43686
+
+[alu]
+A/design_alu=A/Design_ALU 21|./src/alu.vhd|10|1*1986035
+B/design_alu=3*785137
+H/design_alu=0*2706370
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/alu.vhd|5
+S/alu=S/ALU 40|0|2*41341
+V=0*147530
+
+[convertor]
+A/designe_convertor=A/Designe_Convertor 21|./src/std ulogic vector to integer.vhd|9|1*2016468
+B/designe_convertor=3*811705
+H/designe_convertor=0*2739923
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/std ulogic vector to integer.vhd|5
+S/convertor=S/Convertor 40|0|2*48279
+V=0*78065
+
+[decoder_3x8]
+A/design_decoder_3x8=A/Design_Decoder_3x8 21|./src/decoder 3x8.vhd|8|1*1984166
+B/design_decoder_3x8=3*782923
+H/design_decoder_3x8=0*2704307
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/decoder 3x8.vhd|4
+S/decoder_3x8=S/Decoder_3x8 40|0|2*68175
+V=0*153293
+
+[decoder_4x16]
+A/design_decoder_4x16=A/Design_Decoder_4x16 21|./src/decoder 4x16.vhd|8|1*2004636
+B/design_decoder_4x16=3*801358
+H/design_decoder_4x16=0*2726032
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/decoder 4x16.vhd|4
+S/decoder_4x16=S/Decoder_4x16 40|0|2*49463
+V=0*34544
+
+[destination_sync]
+A/designe_destination_sync=A/Designe_Destination_Sync 21|./src/destination sync.vhd|9|1*1991799
+B/designe_destination_sync=3*794155
+H/designe_destination_sync=0*2713069
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/destination sync.vhd|4
+S/destination_sync=40|0|2*50631
+V=0*73622
+
+[flow_control]
+A/designe_flow_control=A/Designe_Flow_Control 21|./src/flow control.vhd|9|1*2001641
+B/designe_flow_control=3*797222
+H/designe_flow_control=0*2721722
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/flow control.vhd|4
+S/flow_control=S/Flow_Control 40|0|2*62300
+V=0*24067
+
+[ir_parser]
+A/ir_parser=A/IR_Parser 21|./src/ir parser.vhd|9|1*1997973
+B/ir_parser=3*795793
+H/ir_parser=0*2718453
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/ir parser.vhd|4
+S/ir_parser=S/IR_Parser 40|0|2*59523
+V=0*10451
+
+[memory_16x16]
+A/designe_memory_16x16=A/Designe_Memory_16x16 21|./src/memory 16x16.vhd|8|1*1993785
+B/designe_memory_16x16=3*794898
+H/designe_memory_16x16=0*2715582
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/memory 16x16.vhd|4
+S/memory_16x16=S/Memory_16x16 40|0|2*73873
+V=0*56868
+
+[mux_2x1]
+A/designe_mux_2x1=A/Designe_MUX_2x1 21|./src/mux 2x1.vhd|8|1*2022654
+B/designe_mux_2x1=3*814477
+H/designe_mux_2x1=0*2745210
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/mux 2x1.vhd|4
+S/mux_2x1=S/MUX_2x1 40|0|2*71987
+V=0*38976
+
+[mux_4x1]
+A/designe_mux_4x1=A/Designe_MUX_4x1 21|./src/mux 4x1.vhd|8|1*2009776
+B/designe_mux_4x1=3*807572
+H/designe_mux_4x1=0*2731967
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/mux 4x1.vhd|4
+S/mux_4x1=S/MUX_4x1 40|0|2*52193
+V=0*50096
+
+[mux_8x1]
+A/designe_mux_8x1=A/Designe_MUX_8x1 21|./src/mux 8x1.vhd|8|1*2007124
+B/designe_mux_8x1=3*805181
+H/designe_mux_8x1=0*2728578
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/mux 8x1.vhd|4
+S/mux_8x1=S/MUX_8x1 40|0|2*55279
+V=0*63704
+
+[register_16_bit]
+A/design_register_16_bit=A/Design_Register_16_Bit 21|./src/register 16 bit.vhd|9|1*2020390
+B/design_register_16_bit=3*813592
+H/design_register_16_bit=0*2743107
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/register 16 bit.vhd|5
+S/register_16_bit=S/Register_16_Bit 40|0|2*45188
+V=0*16288
+
+[register_4_bit]
+A/design_register_4_bit=A/Design_Register_4_Bit 21|./src/register 4 bit.vhd|9|1*2014014
+B/design_register_4_bit=3*810028
+H/design_register_4_bit=0*2737526
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/register 4 bit.vhd|5
+S/register_4_bit=S/Register_4_Bit 40|0|2*69341
+V=0*3938
+
+[sc_cleaner]
+A/design_sc_cleaner=A/Design_SC_Cleaner 21|./src/sc cleaner.vhd|8|1*2012318
+B/design_sc_cleaner=3*808955
+H/design_sc_cleaner=0*2735349
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/sc cleaner.vhd|4
+S/sc_cleaner=S/SC_Cleaner 40|0|2*76182
+V=0*82550
+
+[sequence_counter]
+A/design_sequence_counter=A/Design_Sequence_Counter 21|./src/sequence counter.vhd|9|1*2018461
+B/design_sequence_counter=3*812345
+H/design_sequence_counter=0*2741461
+R=c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/sequence counter.vhd|5
+S/sequence_counter=S/Sequence_Counter 40|0|2*78097
+V=0*68764
+
+[~A]
+./compile/cpu diagram.vhd~\CPU Diagram\=0*83824*84052
+./compile/cpu diagram.vhd~\CPU Diagram\\CPU Diagram\=0*2792936*2803294
+./src/address adaptor.vhd~Designe_Address_AdapterAddress_Adapter=0*2703835*2704203
+./src/address adder.vhd~Designe_Address_AdderAddress_Adder=0*2712451*2712971
+./src/alu.vhd~Design_ALUALU=0*2709168*2710985
+./src/decoder 3x8.vhd~Design_Decoder_3x8Decoder_3x8=0*2705599*2706279
+./src/decoder 4x16.vhd~Design_Decoder_4x16Decoder_4x16=0*2727331*2728484
+./src/destination sync.vhd~Designe_Destination_SyncDestination_Sync=0*2714962*2715475
+./src/flow control.vhd~Designe_Flow_ControlFlow_Control=0*2724495*2725937
+./src/ir parser.vhd~IR_ParserIR_Parser=0*2721068*2721644
+./src/memory 16x16.vhd~Designe_Memory_16x16Memory_16x16=0*2717340*2718358
+./src/mux 2x1.vhd~Designe_MUX_2x1MUX_2x1=0*2746655*2747068
+./src/mux 4x1.vhd~Designe_MUX_4x1MUX_4x1=0*2734653*2735269
+./src/mux 8x1.vhd~Designe_MUX_8x1MUX_8x1=0*2731060*2731887
+./src/register 16 bit.vhd~Design_Register_16_BitRegister_16_Bit=0*2744567*2745107
+./src/register 4 bit.vhd~Design_Register_4_BitRegister_4_Bit=0*2739122*2739823
+./src/sc cleaner.vhd~Design_SC_CleanerSC_Cleaner=0*2736785*2737438
+./src/sequence counter.vhd~Design_Sequence_CounterSequence_Counter=0*2742421*2743001
+./src/std ulogic vector to integer.vhd~Designe_ConvertorConvertor=0*2740938*2741356
+ModifyID=2679
+Version=73
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/address adaptor.vhd~Address_Adapter=0*26489*26843
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/address adaptor.vhd~Designe_Address_AdapterAddress_Adapter=0*28318*28770
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/address adder.vhd~Address_Adder=0*40253*40644
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/address adder.vhd~Designe_Address_AdderAddress_Adder=0*42204*42808
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/alu.vhd~ALU=0*140977*141439
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/alu.vhd~Design_ALUALU=0*144378*146279
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/decoder 3x8.vhd~Decoder_3x8=0*149977*150315
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/decoder 3x8.vhd~Design_Decoder_3x8Decoder_3x8=0*151764*152528
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/decoder 4x16.vhd~Decoder_4x16=0*30731*31073
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/decoder 4x16.vhd~Design_Decoder_4x16Decoder_4x16=0*32531*33768
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/destination sync.vhd~Designe_Destination_SyncDestination_Sync=0*72036*72633
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/destination sync.vhd~Destination_Sync=0*69560*69976
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/flow control.vhd~Designe_Flow_ControlFlow_Control=0*21016*22606
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/flow control.vhd~Flow_Control=0*17574*18084
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/ir parser.vhd~IR_Parser=0*5344*5801
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/ir parser.vhd~IR_ParserIR_Parser=0*8569*9229
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/memory 16x16.vhd~Designe_Memory_16x16Memory_16x16=0*54771*55873
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/memory 16x16.vhd~Memory_16x16=0*52439*52854
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/mux 2x1.vhd~Designe_MUX_2x1MUX_2x1=0*37643*38140
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/mux 2x1.vhd~MUX_2x1=0*35696*36049
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/mux 4x1.vhd~Designe_MUX_4x1MUX_4x1=0*48180*48880
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/mux 4x1.vhd~MUX_4x1=0*44912*45345
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/mux 8x1.vhd~Designe_MUX_8x1MUX_8x1=0*61464*62375
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/mux 8x1.vhd~MUX_8x1=0*58400*58833
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/register 16 bit.vhd~Design_Register_16_BitRegister_16_Bit=0*14760*15384
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/register 16 bit.vhd~Register_16_Bit=0*12725*13135
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/register 4 bit.vhd~Design_Register_4_BitRegister_4_Bit=0*2179*2964
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/register 4 bit.vhd~Register_4_Bit=0*0*420
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/sc cleaner.vhd~Design_SC_CleanerSC_Cleaner=0*80958*81714
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/sc cleaner.vhd~SC_Cleaner=0*78992*79367
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/sequence counter.vhd~Design_Sequence_CounterSequence_Counter=0*67359*68009
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/sequence counter.vhd~Sequence_Counter=0*65861*66232
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/std ulogic vector to integer.vhd~Convertor=0*75267*75633
+c:/Users/Hamed/Desktop/Computer_System_Architecture_Project - Single Core/Single Core/src/std ulogic vector to integer.vhd~Designe_ConvertorConvertor=0*76820*77322
+
+[~MFT]
+0=2584|0Single_Core.mgf|2803294|2558728
+1=815|1Single_Core.mgf|2024341|979490
+2=16|2Single_Core.mgf|78097|0
+3=842|3Single_Core.mgf|815247|724249
+
+[~U]
+\CPU Diagram\=11|0*140369|0*140527
+address_adapter=Address_Adapter 11|0*28958|0*29151|0x3
+address_adder=Address_Adder 11|0*42990|0*43217|0x3
+alu=ALU 11|0*146430|0*146767|0x3
+convertor=Convertor 11|0*77511|0*77691|0x3
+decoder_3x8=Decoder_3x8 11|0*152703|0*152881|0x3
+decoder_4x16=Decoder_4x16 11|0*33946|0*34128|0x3
+destination_sync=Destination_Sync 11|0*72824|0*73066|0x3
+flow_control=Flow_Control 11|0*22785|0*23269|0x3
+ir_parser=IR_Parser 11|0*9391|0*9729|0x3
+memory_16x16=Memory_16x16 11|0*56052|0*56331|0x3
+mux_2x1=MUX_2x1 11|0*38304|0*38526|0x3
+mux_4x1=MUX_4x1 11|0*49044|0*49381|0x3
+mux_8x1=MUX_8x1 11|0*62539|0*62998|0x3
+register_16_bit=Register_16_Bit 11|0*15571|0*15804|0x3
+register_4_bit=Register_4_Bit 11|0*3148|0*3418|0x3
+sc_cleaner=SC_Cleaner 11|0*81886|0*82101|0x3
+sequence_counter=Sequence_Counter 11|0*68199|0*68399|0x3
+

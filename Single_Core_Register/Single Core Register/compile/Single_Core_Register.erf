@@ -1,0 +1,199 @@
+MESSAGE "File: c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\sequence counter.vhd" 
+MESSAGE "Compile Entity "Sequence_Counter"" 
+MESSAGE "Compile Architecture "Design_Sequence_Counter" of Entity "Sequence_Counter"" 
+MESSAGE "File: c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\sc cleaner.vhd" 
+MESSAGE "Compile Entity "SC_Cleaner"" 
+MESSAGE "Compile Architecture "Design_SC_Cleaner" of Entity "SC_Cleaner"" 
+MESSAGE "File: c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\alu.vhd" 
+MESSAGE "Compile Entity "ALU"" 
+MESSAGE "Compile Architecture "Design_ALU" of Entity "ALU"" 
+MESSAGE "File: c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\address adaptor.vhd" 
+MESSAGE "Compile Entity "Address_Adapter"" 
+MESSAGE "Compile Architecture "Designe_Address_Adapter" of Entity "Address_Adapter"" 
+MESSAGE "File: c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\mux 8x1.vhd" 
+MESSAGE "Compile Entity "MUX_8x1"" 
+MESSAGE "Compile Architecture "Designe_MUX_8x1" of Entity "MUX_8x1"" 
+MESSAGE "File: c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\register 4 bit.vhd" 
+MESSAGE "Compile Entity "Register_4_Bit"" 
+MESSAGE "Compile Architecture "Design_Register_4_Bit" of Entity "Register_4_Bit"" 
+MESSAGE "File: c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\flow control.vhd" 
+MESSAGE "Compile Entity "Flow_Control"" 
+MESSAGE "Compile Architecture "Designe_Flow_Control" of Entity "Flow_Control"" 
+MESSAGE "File: c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\decoder 4x16.vhd" 
+MESSAGE "Compile Entity "Decoder_4x16"" 
+MESSAGE "Compile Architecture "Design_Decoder_4x16" of Entity "Decoder_4x16"" 
+MESSAGE "File: .\cpu diagram.vhd" 
+BEGINPROGRESS c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\compile\cpu diagram.vhd
+MESSAGE "Compile Entity "\CPU Diagram\"" 
+UPDATEPROGRESS 1
+UPDATEPROGRESS 2
+MESSAGE "Compile Architecture "\CPU Diagram\" of Entity "\CPU Diagram\"" 
+UPDATEPROGRESS 4
+UPDATEPROGRESS 5
+UPDATEPROGRESS 7
+UPDATEPROGRESS 9
+UPDATEPROGRESS 10
+UPDATEPROGRESS 11
+UPDATEPROGRESS 12
+UPDATEPROGRESS 16
+UPDATEPROGRESS 18
+UPDATEPROGRESS 20
+UPDATEPROGRESS 22
+UPDATEPROGRESS 24
+UPDATEPROGRESS 27
+UPDATEPROGRESS 28
+UPDATEPROGRESS 30
+UPDATEPROGRESS 32
+UPDATEPROGRESS 34
+UPDATEPROGRESS 35
+UPDATEPROGRESS 36
+UPDATEPROGRESS 37
+UPDATEPROGRESS 38
+UPDATEPROGRESS 39
+UPDATEPROGRESS 40
+UPDATEPROGRESS 41
+UPDATEPROGRESS 42
+UPDATEPROGRESS 43
+UPDATEPROGRESS 44
+UPDATEPROGRESS 45
+UPDATEPROGRESS 47
+UPDATEPROGRESS 50
+UPDATEPROGRESS 52
+UPDATEPROGRESS 53
+UPDATEPROGRESS 55
+UPDATEPROGRESS 57
+UPDATEPROGRESS 58
+UPDATEPROGRESS 59
+UPDATEPROGRESS 63
+UPDATEPROGRESS 65
+UPDATEPROGRESS 67
+UPDATEPROGRESS 69
+UPDATEPROGRESS 70
+UPDATEPROGRESS 72
+UPDATEPROGRESS 73
+UPDATEPROGRESS 75
+UPDATEPROGRESS 76
+UPDATEPROGRESS 78
+UPDATEPROGRESS 80
+UPDATEPROGRESS 82
+UPDATEPROGRESS 84
+UPDATEPROGRESS 85
+UPDATEPROGRESS 87
+UPDATEPROGRESS 89
+UPDATEPROGRESS 90
+UPDATEPROGRESS 91
+UPDATEPROGRESS 93
+UPDATEPROGRESS 94
+UPDATEPROGRESS 96
+UPDATEPROGRESS 99
+UPDATEPROGRESS 100
+WARNING ELAB1_0026: "There is no default binding for component "Register_16_Bit".(No entity named "Register_16_Bit" was found)." "c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\compile\cpu diagram.vhd" 254 0
+WARNING ELAB1_0026: "There is no default binding for component "Convertor".(No entity named "Convertor" was found)." "c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\compile\cpu diagram.vhd" 285 0
+WARNING ELAB1_0026: "There is no default binding for component "MUX_4x1".(No entity named "MUX_4x1" was found)." "c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\compile\cpu diagram.vhd" 291 0
+WARNING ELAB1_0026: "There is no default binding for component "Decoder_3x8".(No entity named "Decoder_3x8" was found)." "c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\compile\cpu diagram.vhd" 312 0
+WARNING ELAB1_0026: "There is no default binding for component "destination_sync".(No entity named "destination_sync" was found)." "c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\compile\cpu diagram.vhd" 318 0
+WARNING ELAB1_0026: "There is no default binding for component "IR_Parser".(No entity named "IR_Parser" was found)." "c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\compile\cpu diagram.vhd" 354 0
+WARNING ELAB1_0026: "There is no default binding for component "MUX_2x1".(No entity named "MUX_2x1" was found)." "c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\compile\cpu diagram.vhd" 364 0
+WARNING ELAB1_0026: "There is no default binding for component "Memory_16x16".(No entity named "Memory_16x16" was found)." "c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\compile\cpu diagram.vhd" 394 0
+WARNING ELAB1_0026: "There is no default binding for component "Address_Adder".(No entity named "Address_Adder" was found)." "c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\compile\cpu diagram.vhd" 480 0
+ENDPROGRESS c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\compile\cpu diagram.vhd
+MESSAGE "File: c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\std ulogic vector to integer.vhd" 
+MESSAGE "Compile Entity "Convertor"" 
+MESSAGE "Compile Architecture "Designe_Convertor" of Entity "Convertor"" 
+MESSAGE "File: c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\ir parser.vhd" 
+MESSAGE "Compile Entity "IR_Parser"" 
+MESSAGE "Compile Architecture "IR_Parser" of Entity "IR_Parser"" 
+MESSAGE "File: c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\decoder 3x8.vhd" 
+MESSAGE "Compile Entity "Decoder_3x8"" 
+MESSAGE "Compile Architecture "Design_Decoder_3x8" of Entity "Decoder_3x8"" 
+MESSAGE "File: c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\memory 16x16.vhd" 
+MESSAGE "Compile Entity "Memory_16x16"" 
+MESSAGE "Compile Architecture "Designe_Memory_16x16" of Entity "Memory_16x16"" 
+MESSAGE "File: c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\address adder.vhd" 
+MESSAGE "Compile Entity "Address_Adder"" 
+MESSAGE "Compile Architecture "Designe_Address_Adder" of Entity "Address_Adder"" 
+MESSAGE "File: c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\mux 2x1.vhd" 
+MESSAGE "Compile Entity "MUX_2x1"" 
+MESSAGE "Compile Architecture "Designe_MUX_2x1" of Entity "MUX_2x1"" 
+MESSAGE "File: c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\register 16 bit.vhd" 
+MESSAGE "Compile Entity "Register_16_Bit"" 
+MESSAGE "Compile Architecture "Design_Register_16_Bit" of Entity "Register_16_Bit"" 
+MESSAGE "File: c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\mux 4x1.vhd" 
+MESSAGE "Compile Entity "MUX_4x1"" 
+MESSAGE "Compile Architecture "Designe_MUX_4x1" of Entity "MUX_4x1"" 
+MESSAGE "File: c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\destination sync.vhd" 
+MESSAGE "Compile Entity "Destination_Sync"" 
+MESSAGE "Compile Architecture "Designe_Destination_Sync" of Entity "Destination_Sync"" 
+MESSAGE "Improper file order detected" 
+MESSAGE "Automatic file reorder and recompilation required." 
+MESSAGE "File reorder and recompilation in progress" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   \CPU Diagram\" 
+MESSAGE "File: .\cpu diagram.vhd" 
+BEGINPROGRESS c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\compile\cpu diagram.vhd
+MESSAGE "Compile Entity "\CPU Diagram\"" 
+UPDATEPROGRESS 1
+MESSAGE "Entity `\CPU Diagram\' has been skipped - no difference detected." 
+UPDATEPROGRESS 2
+MESSAGE "Compile Architecture "\CPU Diagram\" of Entity "\CPU Diagram\"" 
+UPDATEPROGRESS 4
+UPDATEPROGRESS 5
+UPDATEPROGRESS 7
+UPDATEPROGRESS 9
+UPDATEPROGRESS 10
+UPDATEPROGRESS 11
+UPDATEPROGRESS 12
+UPDATEPROGRESS 16
+UPDATEPROGRESS 18
+UPDATEPROGRESS 20
+UPDATEPROGRESS 22
+UPDATEPROGRESS 24
+UPDATEPROGRESS 27
+UPDATEPROGRESS 28
+UPDATEPROGRESS 30
+UPDATEPROGRESS 32
+UPDATEPROGRESS 34
+UPDATEPROGRESS 35
+UPDATEPROGRESS 36
+UPDATEPROGRESS 37
+UPDATEPROGRESS 38
+UPDATEPROGRESS 39
+UPDATEPROGRESS 40
+UPDATEPROGRESS 41
+UPDATEPROGRESS 42
+UPDATEPROGRESS 43
+UPDATEPROGRESS 44
+UPDATEPROGRESS 45
+UPDATEPROGRESS 47
+UPDATEPROGRESS 50
+UPDATEPROGRESS 52
+UPDATEPROGRESS 53
+UPDATEPROGRESS 55
+UPDATEPROGRESS 57
+UPDATEPROGRESS 58
+UPDATEPROGRESS 59
+UPDATEPROGRESS 63
+UPDATEPROGRESS 65
+UPDATEPROGRESS 67
+UPDATEPROGRESS 69
+UPDATEPROGRESS 70
+UPDATEPROGRESS 72
+UPDATEPROGRESS 73
+UPDATEPROGRESS 75
+UPDATEPROGRESS 76
+UPDATEPROGRESS 78
+UPDATEPROGRESS 80
+UPDATEPROGRESS 82
+UPDATEPROGRESS 84
+UPDATEPROGRESS 85
+UPDATEPROGRESS 87
+UPDATEPROGRESS 89
+UPDATEPROGRESS 90
+UPDATEPROGRESS 91
+UPDATEPROGRESS 93
+UPDATEPROGRESS 94
+UPDATEPROGRESS 96
+UPDATEPROGRESS 99
+UPDATEPROGRESS 100
+ENDPROGRESS c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\compile\cpu diagram.vhd
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  4.0 [s]" 

@@ -1,0 +1,193 @@
+timestamp=1311502626667
+
+[\CPU Diagram\]
+A/\CPU Diagram\=24|.\src\cpu diagram.bde|10000|1*72373
+B/\CPU Diagram\=3*32311
+H/\CPU Diagram\=0*148317
+R=./compile/cpu diagram.vhd|25
+V=0*102484
+
+[address_adapter]
+A/designe_address_adapter=A/Designe_Address_Adapter 21|./src/address adaptor.vhd|8|1*6623
+B/designe_address_adapter=3*8546
+H/designe_address_adapter=0*16114
+R=./src/address adaptor.vhd|4
+V=0*18509
+
+[address_adder]
+A/designe_address_adder=A/Designe_Address_Adder 21|./src/address adder.vhd|9|1*62025
+B/designe_address_adder=3*26949
+H/designe_address_adder=0*122933
+R=./src/address adder.vhd|5
+V=0*125645
+
+[alu]
+A/design_alu=A/Design_ALU 21|./src/alu.vhd|10|1*3403
+B/design_alu=3*2344
+H/design_alu=0*8119
+R=./src/alu.vhd|5
+V=0*13464
+
+[convertor]
+A/designe_convertor=A/Designe_Convertor 21|./src/std ulogic vector to integer.vhd|9|1*50759
+B/designe_convertor=3*21771
+H/designe_convertor=0*103075
+R=./src/std ulogic vector to integer.vhd|5
+V=0*105166
+
+[decoder_3x8]
+A/design_decoder_3x8=A/Design_Decoder_3x8 21|./src/decoder 3x8.vhd|8|1*56187
+B/design_decoder_3x8=3*23840
+H/design_decoder_3x8=0*113295
+R=./src/decoder 3x8.vhd|4
+V=0*115946
+
+[decoder_4x16]
+A/design_decoder_4x16=A/Design_Decoder_4x16 21|./src/decoder 4x16.vhd|8|1*16111
+B/design_decoder_4x16=3*17624
+H/design_decoder_4x16=0*40657
+R=./src/decoder 4x16.vhd|4
+V=0*43799
+
+[destination_sync]
+A/designe_destination_sync=A/Designe_Destination_Sync 21|./src/destination sync.vhd|9|1*70501
+B/designe_destination_sync=3*31568
+H/designe_destination_sync=0*143447
+R=./src/destination sync.vhd|4
+V=0*146756
+
+[flow_control]
+A/designe_flow_control=A/Designe_Flow_Control 21|./src/flow control.vhd|9|1*13133
+B/designe_flow_control=3*12984
+H/designe_flow_control=0*32056
+R=./src/flow control.vhd|4
+V=0*37920
+
+[ir_parser]
+A/ir_parser=A/IR_Parser 21|./src/ir parser.vhd|9|1*52626
+B/ir_parser=3*22411
+H/ir_parser=0*106451
+R=./src/ir parser.vhd|4
+V=0*110778
+
+[memory_16x16]
+A/designe_memory_16x16=A/Designe_Memory_16x16 21|./src/memory 16x16.vhd|8|1*57947
+B/designe_memory_16x16=3*26054
+H/designe_memory_16x16=0*117416
+R=./src/memory 16x16.vhd|4
+V=0*121101
+
+[mux_2x1]
+A/designe_mux_2x1=A/Designe_MUX_2x1 21|./src/mux 2x1.vhd|8|1*64150
+B/designe_mux_2x1=3*27713
+H/designe_mux_2x1=0*127121
+R=./src/mux 2x1.vhd|4
+V=0*129730
+
+[mux_4x1]
+A/designe_mux_4x1=A/Designe_MUX_4x1 21|./src/mux 4x1.vhd|8|1*68064
+B/designe_mux_4x1=3*30185
+H/designe_mux_4x1=0*136341
+R=./src/mux 4x1.vhd|4
+V=0*140773
+
+[mux_8x1]
+A/designe_mux_8x1=A/Designe_MUX_8x1 21|./src/mux 8x1.vhd|8|1*8244
+B/designe_mux_8x1=3*8916
+H/designe_mux_8x1=0*19997
+R=./src/mux 8x1.vhd|4
+V=0*24549
+
+[register_16_bit]
+A/design_register_16_bit=A/Design_Register_16_Bit 21|./src/register 16 bit.vhd|9|1*65732
+B/design_register_16_bit=3*28483
+H/design_register_16_bit=0*131363
+R=./src/register 16 bit.vhd|5
+V=0*134599
+
+[register_4_bit]
+A/design_register_4_bit=A/Design_Register_4_Bit 21|./src/register 4 bit.vhd|9|1*10791
+B/design_register_4_bit=3*11307
+H/design_register_4_bit=0*27037
+R=./src/register 4 bit.vhd|5
+V=0*30223
+
+[sc_cleaner]
+A/design_sc_cleaner=A/Design_SC_Cleaner 21|./src/sc cleaner.vhd|8|1*1815
+B/design_sc_cleaner=3*1187
+H/design_sc_cleaner=0*3640
+R=./src/sc cleaner.vhd|4
+V=0*6499
+
+[sequence_counter]
+A/design_sequence_counter=A/Design_Sequence_Counter 21|./src/sequence counter.vhd|9|1*0
+B/design_sequence_counter=3*0
+H/design_sequence_counter=0*370
+R=./src/sequence counter.vhd|5
+V=0*2566
+
+[~A]
+./compile/cpu diagram.vhd~\CPU Diagram\=0*44867*45095
+./compile/cpu diagram.vhd~\CPU Diagram\\CPU Diagram\=0*194338*205148
+./src/address adaptor.vhd~Address_Adapter=0*15763*16033
+./src/address adaptor.vhd~Designe_Address_AdapterAddress_Adapter=0*17424*17792
+./src/address adder.vhd~Address_Adder=0*122549*122856
+./src/address adder.vhd~Designe_Address_AdderAddress_Adder=0*124332*124852
+./src/alu.vhd~ALU=0*7689*8062
+./src/alu.vhd~Design_ALUALU=0*10845*12338
+./src/decoder 3x8.vhd~Decoder_3x8=0*112968*113222
+./src/decoder 3x8.vhd~Design_Decoder_3x8Decoder_3x8=0*114587*115267
+./src/decoder 4x16.vhd~Decoder_4x16=0*40324*40582
+./src/decoder 4x16.vhd~Design_Decoder_4x16Decoder_4x16=0*41956*43109
+./src/destination sync.vhd~Designe_Destination_SyncDestination_Sync=0*145340*145853
+./src/destination sync.vhd~Destination_Sync=0*143032*143364
+./src/flow control.vhd~Designe_Flow_ControlFlow_Control=0*34906*36495
+./src/flow control.vhd~Flow_Control=0*31545*31981
+./src/ir parser.vhd~IR_Parser=0*106009*106382
+./src/ir parser.vhd~IR_ParserIR_Parser=0*109066*109642
+./src/memory 16x16.vhd~Designe_Memory_16x16Memory_16x16=0*119174*120192
+./src/memory 16x16.vhd~Memory_16x16=0*117010*117341
+./src/mux 2x1.vhd~Designe_MUX_2x1MUX_2x1=0*128566*128979
+./src/mux 2x1.vhd~MUX_2x1=0*126787*127056
+./src/mux 4x1.vhd~Designe_MUX_4x1MUX_4x1=0*139027*139643
+./src/mux 4x1.vhd~MUX_4x1=0*135927*136276
+./src/mux 8x1.vhd~Designe_MUX_8x1MUX_8x1=0*22479*23306
+./src/mux 8x1.vhd~MUX_8x1=0*19583*19932
+./src/register 16 bit.vhd~Design_Register_16_BitRegister_16_Bit=0*132974*133687
+./src/register 16 bit.vhd~Register_16_Bit=0*130923*131282
+./src/register 4 bit.vhd~Design_Register_4_BitRegister_4_Bit=0*28633*29334
+./src/register 4 bit.vhd~Register_4_Bit=0*26622*26958
+./src/sc cleaner.vhd~Design_SC_CleanerSC_Cleaner=0*5076*5748
+./src/sc cleaner.vhd~SC_Cleaner=0*3278*3569
+./src/sequence counter.vhd~Design_Sequence_CounterSequence_Counter=0*1330*1896
+./src/sequence counter.vhd~Sequence_Counter=0*0*287
+./src/std ulogic vector to integer.vhd~Convertor=0*102705*102987
+./src/std ulogic vector to integer.vhd~Designe_ConvertorConvertor=0*104090*104508
+ModifyID=136
+Version=73
+
+[~MFT]
+0=149|0Single_Core_Register.mgf|205148|56923
+1=19|1Single_Core_Register.mgf|72373|32270
+3=19|3Single_Core_Register.mgf|32311|324
+
+[~U]
+\CPU Diagram\=11|0*102097|0*102255
+address_adapter=Address_Adapter 11|0*17896|0*18089
+address_adder=Address_Adder 11|0*124950|0*125177
+alu=ALU 11|0*12405|0*12722
+convertor=Convertor 11|0*104613|0*104793
+decoder_3x8=Decoder_3x8 11|0*115358|0*115536
+decoder_4x16=Decoder_4x16 11|0*43203|0*43385
+destination_sync=Destination_Sync 11|0*145960|0*146202
+flow_control=Flow_Control 11|0*36590|0*37099
+ir_parser=IR_Parser 11|0*109720|0*110058
+memory_16x16=Memory_16x16 11|0*120287|0*120566
+mux_2x1=MUX_2x1 11|0*129059|0*129281
+mux_4x1=MUX_4x1 11|0*139723|0*140060
+mux_8x1=MUX_8x1 11|0*23386|0*23845
+register_16_bit=Register_16_Bit 11|0*133790|0*134070
+register_4_bit=Register_4_Bit 11|0*29434|0*29704
+sc_cleaner=SC_Cleaner 11|0*5836|0*6051
+sequence_counter=Sequence_Counter 11|0*2002|0*2202
+

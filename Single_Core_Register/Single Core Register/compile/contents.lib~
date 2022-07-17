@@ -1,0 +1,37 @@
+136
+~E 1 "./src/destination sync.vhd" 4 destination_sync
+~A 1 "./src/destination sync.vhd" 9 designe_destination_sync
+~E 1 "./src/alu.vhd" 5 alu
+~A 1 "./src/alu.vhd" 10 design_alu
+~E 1 "./src/address adaptor.vhd" 4 address_adapter
+~A 1 "./src/address adaptor.vhd" 8 designe_address_adapter
+~E 1 "./compile/cpu diagram.vhd" 25 \CPU Diagram\
+~A 1 "./compile/cpu diagram.vhd" 32 \CPU Diagram\
+~E 1 "./src/address adder.vhd" 5 address_adder
+~A 1 "./src/address adder.vhd" 9 designe_address_adder
+~E 1 "./src/decoder 3x8.vhd" 4 decoder_3x8
+~A 1 "./src/decoder 3x8.vhd" 8 design_decoder_3x8
+~E 1 "./src/std ulogic vector to integer.vhd" 5 convertor
+~A 1 "./src/std ulogic vector to integer.vhd" 9 designe_convertor
+~E 1 "./src/decoder 4x16.vhd" 4 decoder_4x16
+~A 1 "./src/decoder 4x16.vhd" 8 design_decoder_4x16
+~E 1 "./src/mux 2x1.vhd" 4 mux_2x1
+~A 1 "./src/mux 2x1.vhd" 8 designe_mux_2x1
+~E 1 "./src/ir parser.vhd" 4 ir_parser
+~A 1 "./src/ir parser.vhd" 9 ir_parser
+~E 1 "./src/flow control.vhd" 4 flow_control
+~A 1 "./src/flow control.vhd" 9 designe_flow_control
+~E 1 "./src/memory 16x16.vhd" 4 memory_16x16
+~A 1 "./src/memory 16x16.vhd" 8 designe_memory_16x16
+~E 1 "./src/register 4 bit.vhd" 5 register_4_bit
+~A 1 "./src/register 4 bit.vhd" 9 design_register_4_bit
+~E 1 "./src/mux 8x1.vhd" 4 mux_8x1
+~A 1 "./src/mux 8x1.vhd" 8 designe_mux_8x1
+~E 1 "./src/mux 4x1.vhd" 4 mux_4x1
+~A 1 "./src/mux 4x1.vhd" 8 designe_mux_4x1
+~E 1 "./src/register 16 bit.vhd" 5 register_16_bit
+~A 1 "./src/register 16 bit.vhd" 9 design_register_16_bit
+~E 1 "./src/sc cleaner.vhd" 4 sc_cleaner
+~A 1 "./src/sc cleaner.vhd" 8 design_sc_cleaner
+~E 1 "./src/sequence counter.vhd" 5 sequence_counter
+~A 1 "./src/sequence counter.vhd" 9 design_sequence_counter

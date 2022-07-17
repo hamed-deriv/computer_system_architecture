@@ -1,0 +1,37 @@
+#VLB_VERSION 59
+#INFO
+Convertor
+E 1312621902803
+5
+#ACCESS
+std
+.
+ieee
+numeric_std all .
+std_logic_1164 all .
+.
+#OBJECTS
+~std_ulogic_vector{3~downto~0}~12 0 5 78 1 . 6
+~NATURAL~range~3~downto~0~12 1 5 298 1 . 6
+Input 2 29 492 1 . 6
+~INTEGER~range~0~to~15~12 3 5 565 1 . 6
+Output 4 29 750 1 . 6
+#SPECIFICATION 
+#END
+td_ulogic_vector{3~downto~0}~122 7 5 803 1 . 6
+~NATURAL~range~3~downto~0~121 8 5 1023 1 . 6
+Output 9 29 1217 1 . 6
+#SPECIFICATION 
+#END
+ 5
+Input2 10 29 1593 1 . 5
+Input3 11 29 1668 1 . 5
+~std_ulogic_vector{3~downto~0}~128 12 5 1742 1 . 5
+~NATURAL~range~3~downto~0~127 13 5 1964 1 . 5
+Output 14 29 2159 1 . 5
+#SPECIFICATION 
+#END
+ange~7~downto~0~12 19 5 2036 1 . 6
+T 20 29 2231 1 . 6
+#SPECIFICATION 
+#END

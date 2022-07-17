@@ -1,0 +1,18 @@
+C:\Users\Hamed\documents\visual studio 2010\Projects\Computer System Architecture Assembler\Computer System Architecture Assembler\bin\Debug\Computer System Architecture Assembler.exe
+C:\Users\Hamed\documents\visual studio 2010\Projects\Computer System Architecture Assembler\Computer System Architecture Assembler\bin\Debug\Computer System Architecture Assembler.pdb
+C:\Users\Hamed\documents\visual studio 2010\Projects\Computer System Architecture Assembler\Computer System Architecture Assembler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamed\documents\visual studio 2010\Projects\Computer System Architecture Assembler\Computer System Architecture Assembler\obj\x86\Debug\Computer System Architecture Assembler.exe
+C:\Users\Hamed\documents\visual studio 2010\Projects\Computer System Architecture Assembler\Computer System Architecture Assembler\obj\x86\Debug\Computer System Architecture Assembler.pdb
+C:\Users\Hamed\documents\visual studio 2010\Projects\Computer System Architecture Assembler\Computer System Architecture Assembler\bin\Debug\Computer System Architecture Assembler.exe.config
+D:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture Assembler\Computer System Architecture Assembler\bin\Debug\Computer System Architecture Assembler.exe.config
+D:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture Assembler\Computer System Architecture Assembler\obj\x86\Debug\Computer System Architecture Assembler.exe
+D:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture Assembler\Computer System Architecture Assembler\obj\x86\Debug\Computer System Architecture Assembler.pdb
+D:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture Assembler\Computer System Architecture Assembler\bin\Debug\Computer System Architecture Assembler.exe
+D:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture Assembler\Computer System Architecture Assembler\bin\Debug\Computer System Architecture Assembler.pdb
+D:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture Assembler\Computer System Architecture Assembler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Computer System Architecture Assembler\Computer System Architecture Assembler\bin\Debug\Computer System Architecture Assembler.exe.config
+D:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Computer System Architecture Assembler\Computer System Architecture Assembler\obj\x86\Debug\Computer System Architecture Assembler.exe
+D:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Computer System Architecture Assembler\Computer System Architecture Assembler\obj\x86\Debug\Computer System Architecture Assembler.pdb
+D:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Computer System Architecture Assembler\Computer System Architecture Assembler\bin\Debug\Computer System Architecture Assembler.exe
+D:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Computer System Architecture Assembler\Computer System Architecture Assembler\bin\Debug\Computer System Architecture Assembler.pdb
+D:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Computer System Architecture Assembler\Computer System Architecture Assembler\obj\x86\Debug\ResolveAssemblyReference.cache

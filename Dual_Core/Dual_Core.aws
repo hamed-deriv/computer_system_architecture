@@ -1,0 +1,12 @@
+[Version]
+Version=6.3
+[Designs]
+dual core=.\Dual Core\Dual Core.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+dual core=1

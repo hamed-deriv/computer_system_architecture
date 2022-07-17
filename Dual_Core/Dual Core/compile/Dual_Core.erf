@@ -1,0 +1,165 @@
+MESSAGE "File: d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\src\address adaptor.vhd" 
+MESSAGE "Compile Entity "Address_Adapter"" 
+MESSAGE "Entity `Address_Adapter' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Designe_Address_Adapter" of Entity "Address_Adapter"" 
+MESSAGE "File: d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\src\alu.vhd" 
+MESSAGE "Compile Entity "ALU"" 
+MESSAGE "Entity `ALU' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Design_ALU" of Entity "ALU"" 
+MESSAGE "File: d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\src\address adder.vhd" 
+MESSAGE "Compile Entity "Address_Adder"" 
+MESSAGE "Entity `Address_Adder' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Designe_Address_Adder" of Entity "Address_Adder"" 
+MESSAGE "File: d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\src\decoder 4x16.vhd" 
+MESSAGE "Compile Entity "Decoder_4x16"" 
+MESSAGE "Entity `Decoder_4x16' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Design_Decoder_4x16" of Entity "Decoder_4x16"" 
+MESSAGE "File: d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\src\flow control.vhd" 
+MESSAGE "Compile Entity "Flow_Control"" 
+MESSAGE "Entity `Flow_Control' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Designe_Flow_Control" of Entity "Flow_Control"" 
+MESSAGE "File: d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\src\destination sync.vhd" 
+MESSAGE "Compile Entity "Destination_Sync"" 
+MESSAGE "Entity `Destination_Sync' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Designe_Destination_Sync" of Entity "Destination_Sync"" 
+MESSAGE "File: d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\src\memory 16x16.vhd" 
+MESSAGE "Compile Entity "Memory_16x16"" 
+MESSAGE "Entity `Memory_16x16' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Designe_Memory_16x16" of Entity "Memory_16x16"" 
+MESSAGE "File: d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\src\ir parser.vhd" 
+MESSAGE "Compile Entity "IR_Parser"" 
+MESSAGE "Entity `IR_Parser' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "IR_Parser" of Entity "IR_Parser"" 
+MESSAGE "File: d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\src\decoder 3x8.vhd" 
+MESSAGE "Compile Entity "Decoder_3x8"" 
+MESSAGE "Entity `Decoder_3x8' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Design_Decoder_3x8" of Entity "Decoder_3x8"" 
+MESSAGE "File: d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\src\mux 4x1.vhd" 
+MESSAGE "Compile Entity "MUX_4x1"" 
+MESSAGE "Entity `MUX_4x1' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Designe_MUX_4x1" of Entity "MUX_4x1"" 
+MESSAGE "File: d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\src\register 16 bit.vhd" 
+MESSAGE "Compile Entity "Register_16_Bit"" 
+MESSAGE "Entity `Register_16_Bit' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Design_Register_16_Bit" of Entity "Register_16_Bit"" 
+MESSAGE "File: d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\src\pc 4 bit.vhd" 
+MESSAGE "Compile Entity "PC_4_Bit"" 
+MESSAGE "Entity `PC_4_Bit' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Design_PC_4_Bit" of Entity "PC_4_Bit"" 
+MESSAGE "File: d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\src\mux 8x1.vhd" 
+MESSAGE "Compile Entity "MUX_8x1"" 
+MESSAGE "Entity `MUX_8x1' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Designe_MUX_8x1" of Entity "MUX_8x1"" 
+MESSAGE "File: d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\src\sc cleaner.vhd" 
+MESSAGE "Compile Entity "SC_Cleaner"" 
+MESSAGE "Entity `SC_Cleaner' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Design_SC_Cleaner" of Entity "SC_Cleaner"" 
+MESSAGE "File: d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\src\std ulogic vector to integer.vhd" 
+MESSAGE "Compile Entity "Convertor"" 
+MESSAGE "Entity `Convertor' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Designe_Convertor" of Entity "Convertor"" 
+MESSAGE "File: d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\src\sequence counter.vhd" 
+MESSAGE "Compile Entity "Sequence_Counter"" 
+MESSAGE "Entity `Sequence_Counter' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Design_Sequence_Counter" of Entity "Sequence_Counter"" 
+MESSAGE "File: d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\src\register 4 bit.vhd" 
+MESSAGE "Compile Entity "Register_4_Bit"" 
+MESSAGE "Entity `Register_4_Bit' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Design_Register_4_Bit" of Entity "Register_4_Bit"" 
+MESSAGE "File: d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\src\mux 2x1.vhd" 
+MESSAGE "Compile Entity "MUX_2x1"" 
+MESSAGE "Entity `MUX_2x1' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Designe_MUX_2x1" of Entity "MUX_2x1"" 
+MESSAGE "File: .\cpu diagram.vhd" 
+BEGINPROGRESS d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\compile\cpu diagram.vhd
+MESSAGE "Compile Entity "\CPU Diagram\"" 
+UPDATEPROGRESS 1
+MESSAGE "Entity `\CPU Diagram\' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "\CPU Diagram\" of Entity "\CPU Diagram\"" 
+UPDATEPROGRESS 2
+UPDATEPROGRESS 3
+UPDATEPROGRESS 5
+UPDATEPROGRESS 6
+UPDATEPROGRESS 7
+UPDATEPROGRESS 8
+UPDATEPROGRESS 10
+UPDATEPROGRESS 11
+UPDATEPROGRESS 13
+UPDATEPROGRESS 14
+UPDATEPROGRESS 15
+UPDATEPROGRESS 17
+UPDATEPROGRESS 18
+UPDATEPROGRESS 19
+UPDATEPROGRESS 20
+UPDATEPROGRESS 21
+UPDATEPROGRESS 23
+UPDATEPROGRESS 24
+UPDATEPROGRESS 25
+UPDATEPROGRESS 26
+UPDATEPROGRESS 27
+UPDATEPROGRESS 28
+UPDATEPROGRESS 29
+UPDATEPROGRESS 30
+UPDATEPROGRESS 31
+UPDATEPROGRESS 32
+UPDATEPROGRESS 33
+UPDATEPROGRESS 34
+UPDATEPROGRESS 35
+UPDATEPROGRESS 36
+UPDATEPROGRESS 37
+UPDATEPROGRESS 39
+UPDATEPROGRESS 40
+UPDATEPROGRESS 42
+UPDATEPROGRESS 43
+UPDATEPROGRESS 44
+UPDATEPROGRESS 46
+UPDATEPROGRESS 47
+UPDATEPROGRESS 48
+UPDATEPROGRESS 50
+UPDATEPROGRESS 51
+UPDATEPROGRESS 52
+UPDATEPROGRESS 53
+UPDATEPROGRESS 55
+UPDATEPROGRESS 58
+UPDATEPROGRESS 59
+UPDATEPROGRESS 60
+UPDATEPROGRESS 61
+UPDATEPROGRESS 62
+UPDATEPROGRESS 63
+UPDATEPROGRESS 64
+UPDATEPROGRESS 65
+UPDATEPROGRESS 66
+UPDATEPROGRESS 67
+UPDATEPROGRESS 68
+UPDATEPROGRESS 69
+UPDATEPROGRESS 70
+UPDATEPROGRESS 71
+UPDATEPROGRESS 72
+UPDATEPROGRESS 73
+UPDATEPROGRESS 74
+UPDATEPROGRESS 75
+UPDATEPROGRESS 76
+UPDATEPROGRESS 77
+UPDATEPROGRESS 78
+UPDATEPROGRESS 79
+UPDATEPROGRESS 80
+UPDATEPROGRESS 81
+UPDATEPROGRESS 82
+UPDATEPROGRESS 83
+UPDATEPROGRESS 84
+UPDATEPROGRESS 85
+UPDATEPROGRESS 86
+UPDATEPROGRESS 87
+UPDATEPROGRESS 88
+UPDATEPROGRESS 89
+UPDATEPROGRESS 90
+UPDATEPROGRESS 91
+UPDATEPROGRESS 92
+UPDATEPROGRESS 93
+UPDATEPROGRESS 94
+UPDATEPROGRESS 95
+UPDATEPROGRESS 97
+UPDATEPROGRESS 99
+UPDATEPROGRESS 100
+ENDPROGRESS d:\Programming\Superior Expert\Computer System Architectre\Computer System Architecture - Rezaee\Dual_Core\Dual Core\compile\cpu diagram.vhd
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  4.0 [s]" 

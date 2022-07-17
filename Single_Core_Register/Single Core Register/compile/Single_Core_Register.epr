@@ -1,0 +1,19 @@
+"c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\sequence counter.vhd" Single_Core_Register 1 0 41741044
+"c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\sc cleaner.vhd" Single_Core_Register 1 0 2019914866
+"c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\alu.vhd" Single_Core_Register 1 0 1702130281
+"c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\address adaptor.vhd" Single_Core_Register 1 0 1702130281
+"c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\mux 8x1.vhd" Single_Core_Register 1 0 808465721
+"c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\register 4 bit.vhd" Single_Core_Register 1 0 808465721
+"c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\flow control.vhd" Single_Core_Register 1 0 1798321268
+"c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\decoder 4x16.vhd" Single_Core_Register 1 0 1798321268
+"c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\compile\cpu diagram.vhd" Single_Core_Register 2 0 1952543348
+"c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\std ulogic vector to integer.vhd" Single_Core_Register 1 0 1952543348
+"c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\ir parser.vhd" Single_Core_Register 1 0 1814981428
+"c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\decoder 3x8.vhd" Single_Core_Register 1 0 1814981428
+"c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\memory 16x16.vhd" Single_Core_Register 1 0 1834969462
+"c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\address adder.vhd" Single_Core_Register 1 0 1834969462
+"c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\mux 2x1.vhd" Single_Core_Register 1 0 1701080673
+"c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\register 16 bit.vhd" Single_Core_Register 1 0 1701080673
+"c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\mux 4x1.vhd" Single_Core_Register 1 0 1869374329
+"c:\Program Files (x86)\Active-HDL 6.3\My_Designs\Single_Core_Register\Single Core Register\src\destination sync.vhd" Single_Core_Register 1 0 1869374329
+. . 0 0 0
